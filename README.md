@@ -18,21 +18,20 @@ This version is built entirely in a Jupyter Notebook as a working prototype. Itâ
 
 ---
 <p align="center">
-
-  [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-RAG-yellow?logo=huggingface)](https://huggingface.co/)
-[![License: MIT](https://img.shields.io/github/license/shivamprasad1001/YouTube-RAG-Chatbot)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Prototype-yellow)]()
-[![Last Commit](https://img.shields.io/github/last-commit/shivamprasad1001/YouTube-RAG-Chatbot)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/commits)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/shivamprasad1001/YouTube-RAG-Chatbot)]()
-[![Issues](https://img.shields.io/github/issues/shivamprasad1001/YouTube-RAG-Chatbot)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/issues)
-[![Forks](https://img.shields.io/github/forks/shivamprasad1001/YouTube-RAG-Chatbot?style=social)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/network)
-[![Stars](https://img.shields.io/github/stars/shivamprasad1001/YouTube-RAG-Chatbot?style=social)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/stargazers)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot)
-
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FAISS-Indexing-9cf?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-Supported-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notebook-Based-Prototype-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/shivamprasad1001/YouTube-RAG-Chatbot?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/shivamprasad1001/YouTube-RAG-Chatbot?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/shivamprasad1001/YouTube-RAG-Chatbot?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge&logo=github" />
 </p>
+
 
 ## ðŸ”§ Features
 
