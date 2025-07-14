@@ -17,6 +17,15 @@ Instead of generating answers solely based on model memory, the system retrieves
 This version is built entirely in a Jupyter Notebook as a working prototype. It’s intended for experimentation and educational purposes. A modular Python package and interactive frontend will be added in future iterations.
 
 ---
+<p align="center">
+  
+  [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Project Status](https://img.shields.io/badge/status-Prototype-yellow)]()
+[![Stars](https://img.shields.io/github/stars/shivamprasad1001/YouTube-RAG-Chatbot?style=social)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot)
+
+</p>
 
 ## 🔧 Features
 
