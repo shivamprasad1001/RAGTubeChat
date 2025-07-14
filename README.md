@@ -18,12 +18,19 @@ This version is built entirely in a Jupyter Notebook as a working prototype. Itâ
 
 ---
 <p align="center">
-  
-  [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Project Status](https://img.shields.io/badge/status-Prototype-yellow)]()
-[![Stars](https://img.shields.io/github/stars/shivamprasad1001/YouTube-RAG-Chatbot?style=social)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot)
+
+  [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-RAG-yellow?logo=huggingface)](https://huggingface.co/)
+[![License: MIT](https://img.shields.io/github/license/shivamprasad1001/YouTube-RAG-Chatbot)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Prototype-yellow)]()
+[![Last Commit](https://img.shields.io/github/last-commit/shivamprasad1001/YouTube-RAG-Chatbot)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/commits)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/shivamprasad1001/YouTube-RAG-Chatbot)]()
+[![Issues](https://img.shields.io/github/issues/shivamprasad1001/YouTube-RAG-Chatbot)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/issues)
+[![Forks](https://img.shields.io/github/forks/shivamprasad1001/YouTube-RAG-Chatbot?style=social)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/network)
+[![Stars](https://img.shields.io/github/stars/shivamprasad1001/YouTube-RAG-Chatbot?style=social)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot/stargazers)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shivamprasad1001/YouTube-RAG-Chatbot)
 
 </p>
 
