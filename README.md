@@ -96,8 +96,9 @@ MIT License
 ## ✉️ Contact
 
 Created by **Shivam Prasad**
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
 🌐 Portfolio: [shivamprasad.netlify.app](https://shivamprasad.netlify.app)
+
 🐙 GitHub: [shivamprasad1001](https://github.com/shivamprasad1001)
 
 
