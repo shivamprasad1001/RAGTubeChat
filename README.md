@@ -95,10 +95,8 @@ MIT License
 
 ## ✉️ Contact
 
-Created by **Shivam Prasad**
-
-🌐 Portfolio: [shivamprasad.netlify.app](https://shivamprasad.netlify.app)
-
+Created by **Shivam Prasad**  
+🌐 Portfolio: [shivamprasad.netlify.app](https://shivamprasad.netlify.app)  
 🐙 GitHub: [shivamprasad1001](https://github.com/shivamprasad1001)
 
 
