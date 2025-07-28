@@ -3,7 +3,6 @@
 A proof-of-concept YouTube question-answering chatbot built using Retrieval-Augmented Generation (RAG), implemented in a Jupyter Notebook.
 
 ---
-> ⚠️ Under maintenance / Development 
 ## 🧠 Overview
 
 This project demonstrates how Retrieval-Augmented Generation (RAG) can be applied to video content — specifically YouTube videos — by allowing users to ask questions about a video's content and get accurate, context-aware answers.
